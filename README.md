@@ -13,7 +13,7 @@ python pingtool.py --country cn
 Run the tool without cloning the repository:
 
 ```bash
-bash <(curl -sSL https://raw.githubusercontent.com/<yourname>/pingtool/main/pingtool.sh) --country cn
+bash <(curl -sSL https://raw.githubusercontent.com/ODJ0930/pingtool/main/pingtool.sh) --country cn
 ```
 
 You can provide ISO codes, English names, or certain Chinese country names (e.g., `中国` for China).
