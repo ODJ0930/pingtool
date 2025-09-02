@@ -8,6 +8,14 @@ A simple CLI tool to ping IP addresses grouped by country and report average lat
 python pingtool.py --country cn
 ```
 
+## One-click from GitHub
+
+Run the tool without cloning the repository:
+
+```bash
+bash <(curl -sSL https://raw.githubusercontent.com/<yourname>/pingtool/main/pingtool.sh) --country cn
+```
+
 You can provide ISO codes, English names, or certain Chinese country names (e.g., `中国` for China).
 
 The tool will download the [public-dns.info](https://public-dns.info/) dataset on first run. If the network is unavailable, a small sample dataset in `data/nameservers.sample.json` will be used instead.
