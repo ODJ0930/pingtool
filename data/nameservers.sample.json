@@ -1,0 +1,17 @@
+[
+  {"ip": "114.114.114.114", "country_id": "CN", "country": "China"},
+  {"ip": "223.5.5.5", "country_id": "CN", "country": "China"},
+  {"ip": "8.8.8.8", "country_id": "US", "country": "United States"},
+  {"ip": "9.9.9.9", "country_id": "US", "country": "United States"},
+  {"ip": "1.1.1.1", "country_id": "US", "country": "United States"},
+  {"ip": "210.143.198.1", "country_id": "JP", "country": "Japan"},
+  {"ip": "203.112.2.4", "country_id": "JP", "country": "Japan"},
+  {"ip": "168.126.63.1", "country_id": "KR", "country": "Korea, Republic of"},
+  {"ip": "81.19.96.148", "country_id": "GB", "country": "United Kingdom"},
+  {"ip": "194.150.168.168", "country_id": "DE", "country": "Germany"},
+  {"ip": "80.67.169.12", "country_id": "FR", "country": "France"},
+  {"ip": "202.136.162.12", "country_id": "SG", "country": "Singapore"},
+  {"ip": "203.186.1.1", "country_id": "HK", "country": "Hong Kong"},
+  {"ip": "200.160.0.8", "country_id": "BR", "country": "Brazil"},
+  {"ip": "202.129.64.198", "country_id": "AU", "country": "Australia"}
+]
